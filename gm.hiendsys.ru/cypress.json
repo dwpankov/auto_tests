@@ -1,0 +1,10 @@
+{
+  "integrationFolder": "UI_test/",
+  "chromeWebSecurity": false, 
+  "env": {
+    "siteURL": "https://gm.hiendsys.ru",
+    "jiraURL": "https://crm.hiendsys.ru/login.jsp"
+  }
+}
+
+

@@ -1,0 +1,9 @@
+{
+  "integrationFolder": "UI_test/",
+  "env": {
+    "siteURL": "https://ols.hiendsys.ru",
+    "jiraURL": "https://crm.hiendsys.ru/login.jsp"
+  }
+}
+
+
